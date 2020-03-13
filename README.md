@@ -7,4 +7,9 @@
 
 1. *study Scratch*
 2. ~study maths~
-3. -study English-
+3. __study English__
+```javascript
+$(document).read(function(){
+aler('Hello');
+});
+```
