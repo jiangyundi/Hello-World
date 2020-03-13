@@ -1,6 +1,5 @@
 # Hello-World
-
-##Type from AWS EC2 for free,thx!
+## Type from AWS EC2 for free,thx!
 ### Using Ubuntu first time.
 
 
@@ -13,3 +12,4 @@ $(document).read(function(){
 aler('Hello');
 });
 ```
+This is my website [Yundi](https://jiangyd.com)
