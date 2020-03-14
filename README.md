@@ -22,14 +22,14 @@ Try new branch test
 	- Love
 2. Second row
 	- Friendly
->outer
->>first
->>>second
-|table | head|
-|:----:|:---:|
-|Year|2020|
-|Month|March|
-|Date|14|    
+outer
+first
+second
+| table | head|
+| :---:|:---:|
+| Year|2020|
+| Month|March|
+| Date|14|    
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>      
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
