@@ -33,8 +33,10 @@ second
 | :---:|:---:|
 | Year|2020|
 | Month|March|
-| Date|14|    
+| Date|14|
+***    
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>      
+***
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
