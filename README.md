@@ -37,6 +37,13 @@ second
 ***    
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>      
 ***
+***
+<kbd>T</kbd>+<kbd>Ctrl</kbd>+<kbd>5</kbd>
+***
+
+
+
+
 $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
